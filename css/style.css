@@ -239,40 +239,6 @@ a:focus {
   margin-bottom: 30px;
 }
 
-.slider_section .detail_box .btn-box {
-  margin: 30px -5px 0 -5px;
-}
-
-.slider_section .detail_box .btn-box a {
-  width: 145px;
-  text-align: center;
-  margin: 5px;
-}
-
-.slider_section .detail_box .btn-box a.btn-1 {
-  display: inline-block;
-  padding: 8px 0;
-  background-color: #d8bf36;
-  color: #ffffff;
-  border-radius: 30px;
-}
-
-.slider_section .detail_box .btn-box a.btn-1:hover {
-  background-color: #e0cd61;
-}
-
-.slider_section .detail_box .btn-box a.btn-2 {
-  display: inline-block;
-  padding: 8px 0;
-  background-color: #ffffff;
-  color: #000000;
-  border-radius: 30px;
-}
-
-.slider_section .detail_box .btn-box a.btn-2:hover {
-  background-color: white;
-}
-
 .slider_section .img-box {
   text-align: center;
 }
